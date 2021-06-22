@@ -2,7 +2,7 @@
 description: This is Ko Ko start page description
 ---
 
-# Initial page
+# Initial page \( GitHub Test\)
 
 ## Getting Super Powers
 
